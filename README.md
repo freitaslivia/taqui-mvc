@@ -46,8 +46,44 @@ gradle azureWebAppDeploy
 ```
 fonte: https://devblogs.microsoft.com/java/gradle-deploy-java-web-apps-to-azure-in-one-step/
 
+---------------------------------------
 
+SQL:
 
+```
+    create table taqui_produto (
+        pk_id_produto NUMBER(10) not null,
+        ds_descricao VARCHAR(100) not null,
+        nm_exibicao VARCHAR(50) not null,
+        nr_preco float(24) not null,
+        pk_id_usuario NUMBER(10) not null,
+        primary key (pk_id_produto)
+    )
+
+    create table taqui_usuario (
+        pk_id_usuario NUMBER(10) not null,
+        ds_email VARCHAR(100) not null,
+        nm_exibicao VARCHAR(50) not null,
+        ds_senha VARCHAR(15) not null,
+        primary key (pk_id_usuario)
+    )
+
+    alter table taqui_usuario 
+       drop constraint UK_EMAIL
+
+    alter table taqui_usuario 
+       add constraint UK_EMAIL unique (ds_email)
+
+    create sequence sq_tb_produto start with 1 increment by 1
+
+    create sequence sq_tb_usuario start with 1 increment by 1
+
+    alter table taqui_produto 
+       add constraint FKicugv4fe13c00njhjgqgp9wv6 
+       foreign key (pk_id_usuario) 
+       references taqui_usuario 
+       on delete cascade
+```
 ---------------------------------------
  ## Instruções de testes:
 
