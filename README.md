@@ -87,7 +87,7 @@ Preço* - O campo não pode estar nulo.
 
 Id do úsuario* - Deve ser o mesmo id que já tem cadastrado na lista de usuários
 
-<a href="https://ibb.co/qppjWT8"><img src="https://i.ibb.co/qppjWT8/cadastro-produto.jpg" alt="cadastro-produto" border="0" /></a>
+<a href="https://ibb.co/qppjWT8"><img src="https://i.ibb.co/qppjWT8/cadastro-produto.jpg" alt="cadastro-produto"/></a>
 
 Ao deletar um usuário, os produtos vinculados a ele são excluídos automaticamente.
 
@@ -95,15 +95,15 @@ Ao editar um usuário não deve deixar nenhum campo vazio.
 
 Lista de Produto:
 
-<a href="https://ibb.co/f4WmtkZ"><img src="https://i.ibb.co/f4WmtkZ/lista-produto.png" alt="lista-produto" border="0" /></a>
+<a href="https://ibb.co/f4WmtkZ"><img src="https://i.ibb.co/f4WmtkZ/lista-produto.png" alt="lista-produto"/></a>
 
 
 Lista de Usuários:
-<a href="https://ibb.co/CwsZx5J"><img src="https://i.ibb.co/CwsZx5J/lista-usuario.png" alt="lista-usuario" border="0" /></a>
+<a href="https://ibb.co/CwsZx5J"><img src="https://i.ibb.co/CwsZx5J/lista-usuario.png" alt="lista-usuario"/></a>
 ------------------------------------------------------------------------
 Aquitetura de JAVA:
 
-<a href="https://ibb.co/bsLjGDX"><img src="https://i.ibb.co/bsLjGDX/arquitetura-do-projeto.png" alt="arquitetura-do-projeto" border="0" /></a>
+<a href="https://ibb.co/bsLjGDX"><img src="https://i.ibb.co/bsLjGDX/arquitetura-do-projeto.png" alt="arquitetura-do-projeto"/></a>
 
 ---------------------------------------
 
