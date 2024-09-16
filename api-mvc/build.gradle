@@ -18,6 +18,20 @@ repositories {
 	mavenCentral()
 }
 
+
+azurewebapp {
+	subscription = '77473478-7b1d-4345-95f9-5d7f456d8c84'
+	resourceGroup = 'rgsprint3'
+	appName = 'sprint3java'
+	pricingTier = 'F1'
+	region = 'brazilsouth'
+	runtime {
+		os = 'Windows'
+		webContainer = 'Java SE'
+		javaVersion = 'Java 17'
+	}
+}
+
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.springframework.boot:spring-boot-starter-hateoas'
