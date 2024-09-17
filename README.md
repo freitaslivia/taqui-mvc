@@ -29,6 +29,8 @@ Promover a conscientização das empresas sobre a importância estratégica de a
 
 [![Assista ao Video](https://i.ibb.co/DVRpqxq/taqui-imagem-tela-video-2.png)](https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z)
 
+https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z
+
 
 ## Pitch
 
