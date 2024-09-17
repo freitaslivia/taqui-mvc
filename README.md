@@ -25,6 +25,11 @@ Promover a conscientização das empresas sobre a importância estratégica de a
 #### Fonte: 50 Estatísticas de Marketing Digital para 2024 (leadster.com.br)
 ---
 
+## Playlist Com o vídeo pedido na entrega de java e devops
+
+[![Assista ao Video](https://i.ibb.co/DVRpqxq/taqui-imagem-tela-video-2.png)](https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z)
+
+
 ## Pitch
 
 [![Assista ao Pitch](https://i.ibb.co/DVRpqxq/taqui-imagem-tela-video-2.png)](https://www.youtube.com/playlist?list=PLnsC4Y30EcL7rDCMiPKU8FRtReYc_HDMP)
