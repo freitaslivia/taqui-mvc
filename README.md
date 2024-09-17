@@ -27,9 +27,10 @@ Promover a conscientização das empresas sobre a importância estratégica de a
 
 ## Playlist com o vídeo pedido na entrega de java e devops
 
+https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z
+
 [![Assista ao Video](https://i.ibb.co/DVRpqxq/taqui-imagem-tela-video-2.png)](https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z)
 
-https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z
 
 ---
 ## Pitch - Assista ao vídeo do pitch para entender a proposta e a visão geral do projeto.
