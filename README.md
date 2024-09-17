@@ -39,7 +39,7 @@ https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z
 
 
 ---
-# Documentação TAQUI USUÁRIOS
+# Documentação TAQUI
 
 Primeiro deve ter instalado na sua maquina java 17 e o gradle(tutorial de como instalar o gradle: https://www.youtube.com/watch?v=R5MwoMsnh2E )
 
