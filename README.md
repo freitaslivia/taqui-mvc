@@ -32,11 +32,11 @@ Promover a conscientização das empresas sobre a importância estratégica de a
 https://www.youtube.com/playlist?list=PLnsC4Y30EcL7TPk9xY3RDiu0ZEcvT0F7Z
 
 ---
-## Pitch
+## Pitch - Assista ao vídeo do pitch para entender a proposta e a visão geral do projeto.
 
 [![Assista ao Pitch](https://i.ibb.co/DVRpqxq/taqui-imagem-tela-video-2.png)](https://www.youtube.com/playlist?list=PLnsC4Y30EcL7rDCMiPKU8FRtReYc_HDMP)
 
-Assista ao vídeo do pitch para entender a proposta e a visão geral do projeto.
+
 ---
 # Documentação TAQUI USUÁRIOS
 
